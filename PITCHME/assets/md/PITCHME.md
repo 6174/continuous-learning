@@ -217,6 +217,10 @@ Feynman Technique
 +++
 研究探索欲望
 +++
+做点儿有挑战的事
++++
+不要拒绝繁琐的细节
++++
 学习资源
 > https://github.com/6174/ppurl
 +++

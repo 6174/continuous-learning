@@ -3,83 +3,225 @@
 ![LOGO](./img/cover.png)
 
 ---
-#### Get the word out
+
+## Outline
+
+1. 为什么要持续学习 
+2. 系统化学习
+3. 学习反馈
+4. 学习方法
+
+---
+
+## 一、持续学习， Why？
+
++++
+
+第一类 - 被迫驱动
+
++++
+
+第二类 - 主动驱动
+
++++
+
+其他各种压力
+
++++
+
+#### 不够具体？
+
++++
+
+
+是否想过自己的技术的可替代性?
+
++++
+
+公司不断发展，对团队成员的要求也在不断提升，你是否跟得上脚步？或者你来做带着公司跑的人？
+
++++
+
+
+默默算一下你的年龄?
+
++++
+
+### 求知与创造
+
 <br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
-<br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab, Bitbucket, Gitea, Gogs, and GitBucket</span>
+
+我希望各位都保持对未知的欲望，不要到了 30 岁就成为装活的人
 
 ---
 
-### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
-<br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+## 二、系统性学习
+
++++
+
+系统性学习 VS 碎片化学习
+
++++
+
+阅读-思考-练习-应用-反馈
+
++++
+
+怎样的学习才叫系统化学习？
+
++++
+
+1. 有主题有规划
+2. 有应用有思考
+3. 有反馈有复习
+
++++
+
+- 看一本书
+- 学习一个算法
+- 学习一门外语
+- 学习画水彩
+- 学习微视频制作
+
++++
+
+系统性学习的主题颗粒可大可小，相同的是对该主题都要足够的深入和理解
+
++++
+
+### 学习态度
+
++++
+
+批判性学习思维（非褒义）
+
++++
+
+带有思想包袱
+
++++
+
+对知识的敬畏
+
++++
+
+
+### 信息的多少
+
++++
+
+你还需要更多的信息吗？
+
++++
+
+信息-行动比
+
++++
+
+1. 过滤掉干扰信息
+2. 追崇的是信息理解，而非信息收集，莫要本末倒置
 
 ---
 
-### No more <span style="color: #666666">Keynote.</span>
-### No more <span style="color: #666666">Powerpoint.</span>
-<br>
-### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.
+## 三、学习反馈
+
++++
+
+为什么嗑瓜子可以嗑半个小时甚至一个小时，看书学习却不可以？
+
++++
+
+### 反馈是一切学习的基础
+
++++
+教育一个小孩儿，必须同时给予鼓励和批评，正向的反馈能够激励，负向的反馈能够规正
++++
+机器学习算法基于反馈为基础达到参数的优化，获取更好的模型
++++
+学习一门技术必须实践应用，在实际操作中体会方法正确与错误的反馈会比纯理论学习更加高效
+
++++
+
+### 反馈时间越短，学习会越轻松越高效
+
++++
+
+反馈与拖延症
+
++++
+在安排 todo list 先后顺序的时候，把最简单的放在上面，完成简单的任务会在短时间内获得正向反馈
++++
+在长跑的时候将路程分段，每个跑完每个阶段为目标，将反馈周期缩短
++++
+在做一件复杂又很难划分为子任务的事情时，可以用文字或者绘图记录思路和过程，方案的形成和文字的积累也算是一种正向反馈
++++
+
+反馈与分享心理
+
++++
+
+反馈时长判断标准
+
++++
+
+### 短期收益与长期收益的选择
+
++++
+在选择工作的时候，一份工作很无聊但是工资很高，另一份对自己的成长会有极大帮助但是工资却中等
++++
+在做技术方案的时候，为了快速解决问题，面临两种方案，一种是人肉的线性解决方案，可以在几天内完成，但是下次面临这类问题的时候仍然需要解决，另外一种情况是需要花几个月的时间通过程序自动化解决
++++
+在选择学习方向的时候，面临一种技术更简单容易上手，另外一种技术难度高，需要大量时间来研究
++++
+
+不要被固有思维影响
+
++++
+
+### 成功的品质 - grit
+
+> “向着长期的目标，坚持自己的激情，即便历经失败，依然能够坚持不懈的努力下去”
 
 ---
 
-<span style="color: #e49436">STEP 1. PITCHME.md</span>
+## 四、一些学习方法
 
-![MARKDOWN](https://d1z75bzl1vljy2.cloudfront.net/hello-world/markdown.png)
++++
 
-Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
+- A4 纸学习工作法
+- PDCA/PDSA 计划-执行-(学习或检查)-反馈
+- 弄脏你的手
+- 减少上下文切入成本
+- 研究型自学
+- Feynman Technique
 
----
-
-<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
-
-![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
-
-Git-commit on any branch and push your PITCHME.md to GitHub, GitLab, Bitbucket, Gitea, Gogs, or GitBucket.
-
----
-
-<span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
-
-<br>
-
-<span style="font-size: 1.3em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">user</span>/<span style="color: #e49436">repo</span>/<span style="color: #e49436">branch</span></span>
-
-<br>
-
-Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
++++
+A4 纸学习工作法
++++
+PDCA/PDSA 计划-执行-(学习或检查)-反馈
++++
+弄脏你的手
++++
+减少上下文切入成本
++++
+研究型自学
++++
+Feynman Technique
 
 ---
 
-<span style="color: #e49436">GIT</span>PITCH DESIGNED FOR SHARING
+## 五、技术学习
 
-![SOCIAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/gp-social.jpg)
++++
+技术嗅觉
++++
+研究探索欲望
++++
+做点儿有挑战的事
++++
+不要拒绝繁琐的细节
++++
+学习资源
+> https://github.com/6174/ppurl
++++
 
-- View any slideshow at its public URL
-- Promote any slideshow using a GitHub badge
-- Embed any slideshow within a blog or website
-- Share any slideshow on Twitter, LinkedIn, etc
-- Print any slideshow as a PDF document
-- Download and present any slideshow offline
-
----
-
-<span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
-
-- GitHub Flavored Markdown +
-- Code Presenting for Blocks, Files, and GISTs
-- Image and Video Slides
-- Custom Logos and Backgrounds
-- Multiple Themes And More
-- <span style="color: #e49436">Plus...</span>
-- Your Slideshow Is Part Of Your Project
-- Under Git Version Control Within Your Git Repo
-
-
----
-
-### Go for it.
-### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
