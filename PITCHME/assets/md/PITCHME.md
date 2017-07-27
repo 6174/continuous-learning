@@ -226,6 +226,9 @@ Feynman Technique
 +++
 
 
+---
+
+# Q & A
 
 
 

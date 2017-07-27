@@ -225,3 +225,7 @@ Feynman Technique
 > https://github.com/6174/ppurl
 +++
 
+
+---
+
+# Q & A
